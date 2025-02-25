@@ -45,7 +45,7 @@ Para sistemas Windows/Linux/macOS com Python 3:
 ```bash
 python main.py
 ```
-### Como Jogar 🎉
+# Como Jogar 🎉
 
 O objetivo é simples: encontre os pares de cartas com cores iguais.
 
@@ -55,7 +55,7 @@ Quando duas cartas com a mesma cor são reveladas, elas desaparecem da grade. �
 
 O jogo termina quando todos os pares forem encontrados ou quando o número máximo de tentativas for alcançado. ⏳
 
-Ao vencer, uma mensagem de "Você ganhou!" será exibida. 🎉
+Ao vencer, uma mensagem de "Parabéns! você ganhou" será exibida. 🎉
 
 Se você atingir o limite de tentativas e não encontrar todos os pares, a mensagem será "Você perdeu!" 😞
 
