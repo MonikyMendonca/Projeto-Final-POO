@@ -44,3 +44,18 @@ Agora que todas as dependências estão instaladas, você pode rodar o jogo! Bas
 Para sistemas Windows/Linux/macOS com Python 3:
 ```bash
 python main.py
+```
+### Como Jogar 🎉
+
+O objetivo é simples: encontre os pares de cartas com cores iguais.
+
+As cartas começam viradas para baixo. Clique nas cartas para virá-las! 🤔
+
+Quando duas cartas com a mesma cor são reveladas, elas desaparecem da grade. ✨
+
+O jogo termina quando todos os pares forem encontrados ou quando o número máximo de tentativas for alcançado. ⏳
+
+Ao vencer, uma mensagem de "Você ganhou!" será exibida. 🎉
+
+Se você atingir o limite de tentativas e não encontrar todos os pares, a mensagem será "Você perdeu!" 😞
+
