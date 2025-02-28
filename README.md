@@ -28,7 +28,8 @@ pip install tk
 Clone este repositório para sua máquina local usando o comando:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/jogo-da-memoria.git
+git clone https://github.com/MonikyMendonca/Projeto-Final-POO.git
+
 ```
 ### Passo 2: Navegue para o Diretório do Projeto
 
